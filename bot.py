@@ -2,7 +2,7 @@ import time
 import telebot
 import requests
 
-TOKEN = '836063095:AAGBXev7fd5Wbwl7J6jiuotXQS1xerq9d1A'
+TOKEN = '872866013:AAHN9cVb5Ve_ztGhlrFlq-4iUvKj7yGo9uw' # change the token of your own bot
 bot = telebot.TeleBot(token=TOKEN)
 
 
